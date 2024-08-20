@@ -19,11 +19,21 @@ I'm Nohiro, an enthusiastic learner with a passion for Red Team operations and c
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=dark)
 
 ## 🖼️ ASCII Art
-|_ __ | [ | ]
-| | _| .---. | |__
-| | _ / /./ | __
-_| |/ ||.' | ||
-|_____|
+  ____  _               _    
+ / ___|| |_ _ __ __ _ | | __
+ \___ \| __| '__/ _` || |/ /
+  ___) | |_| | | (_| ||   < 
+ |____/ \__|_|  \__,_||_|\_\
+                            
+<p style="color: #ff6347;">
+  _   _   _       _    <br>
+ | \ | | | |     | |   <br>
+ |  \| | | | __ _| | __<br>
+ | . ` | | |/ _` | |/ /<br>
+ | |\  | | | (_| |   <br>
+ |_| \_| |_|\__,_|_|\_\
+</p>
+
 
 ## 🎨 Animated GIFs
 ![Hacker Animation](https://media.giphy.com/media/3o6Ztf08LfObK6O5XE/giphy.gif)
