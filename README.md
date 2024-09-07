@@ -12,8 +12,8 @@ I'm Nohiro, an enthusiastic learner with a passion for Red Team operations and c
 - **Ethical Hacking** 🔐
 - **Scripting** (Bash, Python) 🖥️
 
-## 🚀 Current Projects
-- **[Red Team Playbook](#)**: A guide to Red Team methodologies and strategies.
+## 🚀 Little Projects
+- **[Caesar Cipher Cryptography]((https://cryptography-nohiro.glitch.me/))**: A guide to Red Team methodologies and strategies.
 - **[Kali Linux Toolkit](#)**: Custom scripts and tools for Kali Linux enthusiasts.
 
 ## 📊 GitHub Stats
