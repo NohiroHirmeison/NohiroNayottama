@@ -13,7 +13,7 @@ I'm Nohiro, an enthusiastic learner with a passion for Red Team operations and c
 - **Scripting** (Bash, Python) 🖥️
 
 ## 🚀 Little Projects
-- **[Caesar Cipher Cryptography](https://cryptography-nohiro.glitch.me/))**: A guide to Red Team methodologies and strategies.
+- **[Caesar Cipher Cryptography](https://cryptography-nohiro.glitch.me/)**: My first project as a cybersecurity engineering student in Politeknik Negeri Batam
 - **[Kali Linux Toolkit](#)**: Custom scripts and tools for Kali Linux enthusiasts.
 
 ## 📊 GitHub Stats
