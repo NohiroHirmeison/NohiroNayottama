@@ -23,7 +23,7 @@ I'm Nohiro, an enthusiastic learner with a passion for Red Team operations and c
 - **[LinkedIn](https://www.linkedin.com/in/nohiro-hirmeison-2b841b2bb)**
 
 ## 📧 Contact Me
-Feel free to reach out via email: nohironayottama@gmail.com, if you have any questions or just want to chat about Red Teaming!
+Feel free to reach out via email: nohiro.hirmeison@gmail.com, if you have any questions or just want to chat about Red Teaming!
 
 ---
 
